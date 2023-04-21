@@ -1,0 +1,14 @@
+body{
+background-image:url('/images/568995-cool-colorful-backgrounds-1920x1200-hd-for-mobile.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+text-align: center;
+color:aliceblue;
+font-family: 'Times New Roman', Times, serif;
+font-size: 25px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
